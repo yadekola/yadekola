@@ -3,9 +3,9 @@
 
 **yadekola/yadekola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My Portfolio Link Here.👇🏾👇🏾👇🏾
+My Portfolio Link Here👇🏾👇🏾👇🏾
 
-    https://yadekola.github.io/ojoportfolio/
+https://yadekola.github.io/ojoportfolio/
 
 Here are some ideas to get you started:
 
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://yadekola.github.io/ojoportfolio/
+
