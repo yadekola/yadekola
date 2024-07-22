@@ -5,7 +5,7 @@
 
 My Portfolio Link Here.👇🏾👇🏾👇🏾
 
-    yadekola.github.io/ojoportfolio/
+    https://yadekola.github.io/ojoportfolio/
 
 Here are some ideas to get you started:
 
